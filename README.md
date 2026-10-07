@@ -2,7 +2,7 @@
 📌 Project Name: [petopia]
 
 ## 📌 Project Overview
-[موقع لرعايه الحيوانات ومساعده مربيين الحيوانات في الحصول علي كل ما يخص حيوانهم الاليف]
+[An all-in-one mobile platform connecting pet owners with nearby veterinary clinics, enabling appointment booking, online consultation, and an integrated e-commerce store for pet supplies.]
 
 ## 👥 Team Members
 [Amal Mahmoud Ahmed]
@@ -16,24 +16,18 @@
 
 
 ## 🎓 Instructor
-[سما ياسر]
-## 🎯 Project Objectives
+[Sama yasser]
 
-[مساعده مربيين الحيوانات]
-[مساعده اصحاب العيادات في وصولهم الي اكبر عدد من العملاء]
+## 🎯 Project Objectives
+[Finding and booking nearby veterinary clinics.
+​Provide an integrated store for pet care products and supplies.
+​Create centralized digital health records for pets.]
 
 ## 📦 Project Scope
-- **In Scope:**
-- [حجز مواعيد عند الاطباء البيطريين]
-- [متجر لشراء مستلزمات واكل الحيوانات]
--  [انشاء ملف شخصي للحيوان الاليف]
-- **Out of Scope:**
-- [خدمة ايواء الحيوانات]
+[Included: booking management, e-commerce store, pet health profiles, smart reminder, ask online Vet and admin/doctor dashboards.
+​Excluded: ​No Automated AI Medical Diagnosis and Full-scale emergency delivery logistics.]
 
 ## 📅 Project Plan (5 Weeks)
-- **Week 1:** 
-- **Week 2:** 
-- **Week 3:**
-- **Week 4:** 
-- **Week 5:** 
--
+Week 1: Stakeholders interview, S.W.O.T Analysis and Competitve Analysis
+​Week 2 & 3 : Survey and interview with users and service providers.
+​Week 4 : Persona , Empathy map and User journey-
